@@ -35,6 +35,6 @@ Como entrega desse case podemos apresentar um notebook com a explicação passo 
 4 - O processo construído leva em consideração um peso ponderado de acordo com cada critério estabelecido para chegar ao peso final do bônus. Esse peso ponderado é então multiplicado pelo valor total a ser distribuído obtendo o valor que cada funcionário vai receber.     
 5 - Algumas variáveis foram pré-fixadas no código como o valor do salário mínimo e a porcentagem dos lucros a ser distribuída, mas poderíamos, no caso de evoluir para uma interface interativa, deixar o preenchimento desses campos sob a responsabilidade do usuário final.    
 6 - Apesar de não haver nenhum problema na base de dados apresentada, o processo conta com uma etapa de validação do Json e dos formatos esperados para cada dado. Essa verificação foi feita usando os próprios métodos do python, mas existem outras ferarmentas que poderiam ser realizadas com esse propósito específico.    
-
+7 - O resultado da tabela a princípio fica apenas no notebook, mas poderia ser exportado em alguns arquivos csv ou até mesmo salvos no banco de dados. 
 
 
